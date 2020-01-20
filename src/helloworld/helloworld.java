@@ -5,9 +5,9 @@ public class helloworld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*
-		Java programÀº 
-		¿©±â¼­ºÎÅÍ 
-		½ÃÀÛÇÕ´Ï´Ù.(ÁÖ¼® 5¹ø¶óÀÎ ¹«½Ã)
+		Java programì€ 
+		ì—¬ê¸°ì„œë¶€í„° 
+		ì‹œì‘í•©ë‹ˆë‹¤.(ì£¼ì„ 5ë²ˆë¼ì¸ ë¬´ì‹œ)
 		*/
 			System.out.println("Hello World!!!!");
 	}
